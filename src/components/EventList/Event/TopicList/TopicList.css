@@ -1,0 +1,17 @@
+.app__event-list__event-topic-list {
+  list-style: none;
+  padding: 0;
+}
+
+.app__event-list__event-topic-list button {
+  margin: 5px;
+}
+
+.app__event-list__event-topic-list__item {
+  font-weight: 100;
+}
+
+.app__event-list__event-topic-list__gage {
+  color: #c5c5c5;
+  font-weight: 100;
+}
